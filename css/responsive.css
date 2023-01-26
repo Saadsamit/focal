@@ -1,0 +1,405 @@
+/* Large css start */
+@media (min-width:992px) and (max-width:1199.98px){
+    nav .menu li a {
+        font-size: 15px;
+    }
+    #banner {
+        height: 950px;
+    }
+    #info .row .text {
+        padding: 80px 30px;
+    }
+    #about_me .row .item_2 .skills {
+        padding-bottom: 15px;
+    }
+    #about_me .row .item_2 {
+        padding: 80px 25px 20px 80px;
+    }
+    #about_me .row .item_2 .skills p{
+        margin-bottom: 30px;
+    }
+    #about_me .row .item_2 .row .skill h4 {
+        font-size: 20px;
+    }
+    #about_me .row .item_2 .row .skill p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+}
+/* Large css end */
+/* Medium css start */
+@media (min-width:768px) and (max-width:991.98px){
+    nav .menu li {
+        padding: 15px;
+        text-align: center;
+    }
+    #banner {
+        height: 780px;
+    }
+    #banner .container .banner_content h1 {
+        font-size: 50px;
+        margin: 18px 0;
+    }
+    #banner .container .banner_content a {
+        font-size: 15px;
+        padding: 15px 30px;
+        margin: 25px 0;
+    }
+    #info{
+        padding: 50px 0;
+    }
+    #info .row .text {
+        padding: 20px 50px;
+    }
+    #info .text p{
+            margin-bottom: 20px;
+            text-align: justify;
+            text-align-last: center;
+    }
+    #about_me .row .item_1 {
+        padding-top: 20px;
+    }
+    #about_me .row .item_1 img {
+        width: 65%;
+    }
+    #about_me .row .item_2 {
+        padding: 45px 100px 30px 135px;
+    }
+    #about_me .row .item_2 .skills h4 {
+        margin-bottom: 25px;
+    }
+    #about_me .row .item_2 .skills p{
+        line-height: 28px;
+        margin-bottom: 20px;
+    }
+    #about_me .row .item_2 .row .skill .content {
+        padding-top: 5px;
+    }
+    #about_me .row .item_2 .row .skill {
+        padding-right: 25px;
+        padding-bottom: 30px;
+    }
+    #my_skills {
+        padding: 70px 0;
+    }
+    #my_skills .skill {
+        padding-left: 15px;
+    }
+    .text p {
+        margin-bottom: 33px;
+    }
+    .text a {
+        margin-bottom: 20px;
+        padding: 15px 25px;
+    }
+    #Resume .text {
+        padding: 60px;
+    }
+    #Resume a{
+        margin: 0;
+    }
+    #My_Education .container .row,#work {
+        padding: 60px 0;
+    }
+    #My_Education .text p,#work .text p {
+        margin-bottom: 0;
+    }
+    #review .text {
+        padding: 30px 0;
+    }
+    #portfolio {
+        padding: 60px 0;
+    }
+    #portfolio .text {
+        padding-bottom: 0px;
+    }
+    #footer {
+        padding: 60px 100px;
+    }
+}
+/* Medium css end */
+/* Small css start */
+@media (min-width:576px) and (max-width:767.98px){
+    nav .menu li {
+        padding: 10px;
+        text-align: center;
+    }
+    #banner {
+        height: 750px;
+    }
+    #banner .container .banner_content h1 {
+        font-size: 40px;
+        margin: 15px 0;
+    }
+    #banner .container .banner_content a {
+        padding: 12px 20px;
+        margin: 18px 0;
+    }
+    #info{
+        padding-top: 50px;
+    }
+    #info .row .text {
+        padding: 0px 140px;
+    }
+    #about_me .row .item_1 img {
+        width: 60%;
+        padding-top: 6px;
+    }
+    #about_me .row .item_2 {
+        padding: 40px 100px 30px 115px;
+    }
+    .text p {
+        margin-bottom: 15px;
+    }
+    #about_me .text h4 {
+        margin-bottom: 15px;
+    }
+    #about_me .row .item_2 .row .skill {
+        padding-right: 25px;
+        padding-bottom: 35px;
+    }
+    #my_skills {
+        padding: 60px 0;
+    }
+    .text a {
+        padding: 10px 15px;
+        margin-bottom: 10px;
+        font-size: 14px;
+    }
+    #my_skills .skill {
+        padding-left: 40px;
+    }
+    #Resume .text {
+        padding: 60px;
+    }
+    #My_Education .container .row ,
+    #work{
+        padding: 60px 0;
+    }
+    .myinfo h4 {
+        padding-top: 20px;
+    }
+    .myinfo {
+        padding-left: 25px;
+    }
+    #review .text {
+        padding: 30px 0;
+    }
+    #review .text p {
+        font-size: 20px;
+        padding: 0 42px;
+    }
+    #portfolio {
+        padding: 50px 0;
+    }
+    #portfolio .text {
+        padding-bottom: 15px;
+    }
+    #portfolio .photo .item {
+        padding: 15px;
+    }
+    #portfolio .photo .item .overlay {
+        inset: 15px;
+    }
+    #footer {
+        padding: 50px 100px;
+    }
+    #footer .row .font .contact, #footer .row .font address {
+        padding: 15px 0;
+    }
+    #footer .row .form label {
+        margin: 30px 0 15px;
+    }
+    #footer .row .form input, #footer .row .form textarea {
+        font-size: 15px;
+        padding: 10px 20px;
+    }
+    #footer .row button {
+        font-size: 15px;
+        margin-top: 25px;
+        padding: 10px 20px;
+    }
+}
+/* Small css end */
+/* Extra small css start */
+@media (max-width:575.98px){
+    nav .menu li {
+        text-align: center;
+    }
+    #banner {
+        height: 510px;
+    }
+    #banner .container .banner_content h1 {
+        font-size: 25px;
+        margin: 0;
+    }
+    #banner .container .banner_content a {
+        font-size: 14px;
+        padding: 9px 15px;
+        margin: 20px 0;
+    }
+    nav .menu li {
+        padding: 5px 10px;
+    }
+    nav .menu li a {
+        font-size: 14px;
+    }
+    #info{
+        padding: 15px 0;
+    }
+    #info .row .text {
+        padding: 15px;
+    }
+    #info .text p {
+        font-size: 14px;
+        line-height: 20px;
+        margin-bottom: 0px;
+    }
+    .text h4 {
+        font-size: 22px;
+        line-height: 15px;
+        margin-bottom: 15px;
+    }
+    #about_me .row .item_2 {
+        padding: 30px;
+    }
+    .text p {
+        font-size: 14px;
+        line-height: 20px;
+        margin-bottom: 10px;
+    }
+    #about_me .row .item_2 .row .skill h4 {
+        margin-bottom: 10px;
+        font-size: 16px;
+    }
+    #about_me .row .item_2 .row .skill .icon {
+        width: 50px;
+    }
+    #about_me .row .item_2 .row .skill .content {
+        width: calc(100% - 50px);
+    }
+    #about_me .row .item_2 .row .skill {
+        padding-right: 20px;
+        padding-bottom: 30px;
+    }
+    #my_skills {
+        padding: 30px 0;
+    }
+    .text a {
+        padding: 10px 15px;
+        margin-bottom: 0px;
+        font-size: 13px;
+    }
+    #my_skills .skill {
+        padding-left: 20px;
+    }
+    #my_skills .skill h4 {
+        font-size: 17px;
+        padding-top: 25px;
+        padding-bottom: 13px;
+    }
+    #my_skills .skill .bg-2 p {
+        font-size: 13px;
+    }
+    #my_skills .skill .bg-1 {
+        height: 23px;
+    }
+    #Resume .text {
+        padding: 20px 10px;
+    }
+    #My_Education .container .row ,
+    #work{
+        padding: 30px 0;
+    }
+    .myinfo {
+        padding-left: 12px;
+    }
+    .myinfo h4 {
+        line-height: 15px;
+        font-size: 15px;
+        padding-top: 13px;
+    }
+    .myinfo .info-1 {
+        padding-bottom: 10px;
+    }
+    .myinfo .cl {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .myinfo .info-2 {
+        padding: 3px 1px;
+        margin-bottom: 15px;
+        font-size: 12px;
+    }
+    #review .text {
+        padding: 30px 0;
+    }
+    #review .text p {
+        padding: 0 10px;
+        font-size: 16px;
+        line-height: 17px;
+        margin-bottom: 10px;
+    }
+    #review .text h4 {
+        font-size: 16px;
+    }
+    #portfolio {
+        padding: 30px 0;
+    }
+    #portfolio .text {
+        padding-bottom: 0px;
+    }
+    #portfolio .photo .item {
+        padding: 10px;
+    }
+    #portfolio .photo .item .overlay {
+        inset: 10px;
+    }
+    #footer {
+        padding: 25px;
+    }
+    #footer .row .font {
+        padding-right: 20px;
+    }
+    #footer .row .font h4 {
+        font-size: 22px;
+    }
+    #footer .row .font .contact, #footer .row .font address {
+        padding: 10px 0;
+        font-size: 14px;
+        line-height: 16px;
+    }
+    #footer .row .font div p {
+        font-size: 15px;
+    }
+    #footer .row .font div p a {
+        margin-left: 15px;
+        font-size: 13px;
+    }
+    #footer .row .form input, #footer .row .form textarea {
+        font-size: 14px;
+        padding: 6px 10px;
+    }
+    #footer .row .form label {
+        margin: 20px 0 10px;
+        font-size: 15px;
+    }
+    #footer .row button {
+        font-size: 15px;
+        margin-top: 25px;
+        padding: 10px 20px;
+    }
+#back_to_top {
+        right: 20px;
+    }
+    #back_to_top.active {
+        bottom: 25px;
+    }
+    #back_to_top i {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
+
+}
+/* Extra small css end */
